@@ -43,6 +43,7 @@ Quick Observations:
 - Microsoft SQL Server Management Studio (SSMS)
   
 📂 Folder Structure
+
 Pizza-Sales-Power-BI-Dashboard/
 │
 ├── Pizza Sales Dashboard.pbix 
