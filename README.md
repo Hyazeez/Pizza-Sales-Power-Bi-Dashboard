@@ -7,7 +7,6 @@ This Power BI project provides a comprehensive analysis of pizza sales data for 
 📌 Page 1: Sales Overview
 
 [Sales Overview]
-(Pizza sales images/screenshots/1.png)
 
 Key Insights:
 - Total Revenue: $817.86K  
@@ -25,7 +24,6 @@ Additional Visuals:
 📌 Page 2: Best / Worst Sellers
 
 [Best/Worst Sellers]
-(Pizza sales images/screenshots/2.png)
 
 Top Performing Pizzas:
 - By Revenue, Quantity, and Orders
