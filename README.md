@@ -45,14 +45,23 @@ Quick Observations:
 📂 Folder Structure
 
 Pizza-Sales-Power-BI-Dashboard/
+
 │
+
 ├── Pizza Sales Dashboard.pbix 
+
 ├── data(CSV file)
+
 ├── Pizza sales images/
+
 |    ├──screenshots/
+
 |       ├── 1.png
+
 |       └── 2.png
+
 │── Pizza sales SQL queries
+
 └── README.md 
 
 ✅ Features
